@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "==1.15.1"
+tensorflow = "==1.9.0"
+gym = "==0.10.5"
+
+[requires]
+python_version = "3.6"
